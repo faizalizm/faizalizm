@@ -9,7 +9,7 @@
 - You can checkout my website at www.faizalismail.com when its fully running !
 
 - 📫 You can connect with me on the following platforms
-- Email : hai@faizalismail.com
+- Email : contact@faizalismail.com
 - Linked In : https://www.linkedin.com/in/faizal-ismail-5622832b/
 - Instagram : https://www.instagram.com/fzal._/
 
