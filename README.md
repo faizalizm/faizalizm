@@ -1,10 +1,9 @@
 ![Faizal Banner](https://github.com/faizalizm/faizalizm/blob/main/Faizal%20Banner.png)
 
-## 👋 &nbsp;Hai there! I'm Faizal Ismail
 
-### 👨🏻‍💻 &nbsp;About Me
+### <👨🏻‍💻> About Me </👨🏻‍💻>]
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop clean UI/UX design.\
 🎓 &nbsp;I'm currently studying Computer Science majoring in Software Engineering at Universiti Tenaga Nasional.\
 🌱 &nbsp;I'm on track for learning more about Front-End and Back-End Development of software and web applications.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Games as hobbies.\
@@ -12,18 +11,20 @@
 ✉️ &nbsp;You can shoot me an email at contact@faizalismail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://faizalismail.com/wp-content/uploads/2022/03/Fz-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Faizal Freelance Gif" src="https://github.com/faizalizm/faizalizm/blob/main/Faizal%20Freelance%20Gif.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### <🛠> Tech Stack </🛠>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=20C4CB)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
