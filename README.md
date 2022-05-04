@@ -11,7 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at contact@faizalismail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://faizalismail.com/wp-content/uploads/2022/03/Fz-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Faizal Freelance Gif" src="https://github.com/faizalizm/faizalizm/blob/main/Faizal%20Freelance%20Gif.gif" width="180em" align="right"/>
+<img alt="Faizal Freelance Gif" src="https://github.com/faizalizm/faizalizm/blob/main/Faizal%20Freelance%20Gif.gif" width="400em" align="right"/>
 
 ### <🛠> Tech Stack </🛠>
 
