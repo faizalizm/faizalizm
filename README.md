@@ -11,7 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at contact@faizalismail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://faizalismail.com/wp-content/uploads/2022/03/Fz-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Faizal Freelance Gif" src="https://github.com/faizalizm/faizalizm/blob/main/Faizal%20Freelance%20Gif.gif" align="right"/>
+<img alt="Faizal Freelance Gif" src="https://github.com/faizalizm/faizalizm/blob/main/Faizal%20Freelance%20Gif.gif" width="180em" align="right"/>
 
 ### <🛠> Tech Stack </🛠>
 
@@ -31,14 +31,14 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
-### 🛠 &nbsp;Currently Learning
+### <🛠> Currently Learning </🛠>
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### <📊> GitHub Analytics </📊>
 
 <p align="center">
 <a href="https://github.com/faizalizm">
@@ -47,7 +47,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### <🤝🏻> Connect with Me </🤝🏻>
 
 <p align="center">
 <a href="https://www.faizalismail.com"><img src="https://img.shields.io/badge/-faizalismail.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
