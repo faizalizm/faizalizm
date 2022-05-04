@@ -10,8 +10,8 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at contact@faizalismail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://faizalismail.com/wp-content/uploads/2022/03/Fz-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
-
-
+/
+/
 <img alt="Faizal Freelance Gif" src="https://github.com/faizalizm/faizalizm/blob/main/Faizal%20Freelance%20Gif.gif" width="400em" align="right"/>
 
 ### <🛠> Tech Stack </🛠>
@@ -38,8 +38,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-
+/
+/
 ### <📊> GitHub Analytics </📊>
 
 <p align="center">
