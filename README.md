@@ -19,7 +19,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=000000)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=20C4CB)&nbsp;
 
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -42,8 +43,8 @@
 
 <p align="center">
 <a href="https://github.com/faizalizm">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizalizm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizalizm&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizalizm&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizalizm&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>
 </p>
 
