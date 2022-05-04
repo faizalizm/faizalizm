@@ -1,6 +1,4 @@
-![Faizal GitHub Banner](https://github.com/faizalizm/faizalizm/blob/main/Faizal%20GitHub%20Banner.png)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Faizal</h2>
+![Faizal Banner](https://github.com/faizalizm/faizalizm/blob/main/Faizal%20Banner.png)
 
 ## 👋 &nbsp;Hai there! I'm Faizal Ismail
 
@@ -19,7 +17,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=000000)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=20C4CB)&nbsp;
 
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
