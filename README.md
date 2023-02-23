@@ -16,7 +16,7 @@
 
 ---
 
-<img alt="Faizal Freelance Gif" src="https://github.com/faizalizm/faizalizm/blob/main/Faizal%20Freelance%20Gif.gif" width="50em" align="right"/>
+<img alt="Faizal Freelance Gif" src="https://github.com/faizalizm/faizalizm/blob/main/Faizal%20Freelance%20Gif.gif" width="10em" align="right"/>
 
 ### <🛠> Tech Stack </🛠>
 
